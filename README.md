@@ -1,16 +1,6 @@
-# kharcha_khata
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developed a mobile application for tracking expenses.
+Addresses the challenge of managing expenses for students living in hostels.
+Records payments to vendors using cash, UPI, and net banking.
+Provides a centralized platform to keep track of expenses for various purposes.
+Enables students to easily share detailed spending reports with parents.
+Technology Used : Flutter, Dart, Firebase, Java, MySql, SpringBoot 6, Microsoft Azure, Github, Apache Maven
